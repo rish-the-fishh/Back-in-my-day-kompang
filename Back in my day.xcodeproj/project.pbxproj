@@ -6,6 +6,12 @@
 	objectVersion = 110;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		126D75C030263151000F06DF /* Kompang.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 126D75BE30263151000F06DF /* Kompang.usdz */; };
+		12D88FE130275EC200BE16ED /* kompang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 12D88FE030275EC200BE16ED /* kompang.mp3 */; };
+		12FA35F730276A0900222A1F /* Man_in_traditional_Baju_Melayu.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 12FA35F630276A0900222A1F /* Man_in_traditional_Baju_Melayu.usdz */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		126D75AF3025B5B6000F06DF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -19,6 +25,9 @@
 /* Begin PBXFileReference section */
 		126D758F3025B5B3000F06DF /* Back in my day.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Back in my day.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		126D75AE3025B5B6000F06DF /* Back in my dayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Back in my dayTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		126D75BE30263151000F06DF /* Kompang.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = Kompang.usdz; sourceTree = "<group>"; };
+		12D88FE030275EC200BE16ED /* kompang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kompang.mp3; sourceTree = "<group>"; };
+		12FA35F630276A0900222A1F /* Man_in_traditional_Baju_Melayu.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = Man_in_traditional_Baju_Melayu.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -69,6 +78,9 @@
 			children = (
 				126D75913025B5B3000F06DF /* Back in my day */,
 				126D75B13025B5B6000F06DF /* Back in my dayTests */,
+				126D75BE30263151000F06DF /* Kompang.usdz */,
+				12FA35F630276A0900222A1F /* Man_in_traditional_Baju_Melayu.usdz */,
+				12D88FE030275EC200BE16ED /* kompang.mp3 */,
 				126D75903025B5B3000F06DF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -167,6 +179,9 @@
 		126D758D3025B5B3000F06DF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				12FA35F730276A0900222A1F /* Man_in_traditional_Baju_Melayu.usdz in Resources */,
+				12D88FE130275EC200BE16ED /* kompang.mp3 in Resources */,
+				126D75C030263151000F06DF /* Kompang.usdz in Resources */,
 			);
 		};
 		126D75AC3025B5B6000F06DF /* Resources */ = {

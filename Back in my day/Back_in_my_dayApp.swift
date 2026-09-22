@@ -35,6 +35,6 @@ struct Back_in_my_dayApp: App {
                     avPlayerViewModel.reset()
                 }
         }
-        .immersionStyle(selection: .constant(.full), in: .full)
+        .immersionStyle(selection: .constant(.mixed), in: .mixed)
     }
 }
